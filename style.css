@@ -16,7 +16,7 @@
 .circle {
     fill: none;
     stroke: #000;
-    stroke-width: 9;
+    stroke-width: 5;
     stroke-miterlimit: 10;
 }
 
@@ -26,28 +26,28 @@
 .hour-marks {
     fill: none;
     stroke: #000;
-    stroke-width: 9;
+    stroke-width: 5;
     stroke-miterlimit: 10;
 }
 
 .hour-arm {
     fill: none;
     stroke: #000;
-    stroke-width: 17;
+    stroke-width: 15;
     stroke-miterlimit: 10;
 }
 
 .minute-arm {
     fill: none;
     stroke: #000;
-    stroke-width: 11;
+    stroke-width: 9;
     stroke-miterlimit: 10;
 }
 
 .second-arm {
     fill: none;
     stroke: #000;
-    stroke-width: 4;
+    stroke-width: 3;
     stroke-miterlimit: 10;
 }
 
